@@ -1,4 +1,4 @@
 action: broken
 packages:
-- noarch/nestml-7.0.2-pyh48a0582_4.tar.bz2
-- noarch/nestml-7.0.2-pyh48a0582_3.tar.bz2
+- noarch/nestml-7.0.2-pyh48a0582_4.conda
+- noarch/nestml-7.0.2-pyh48a0582_3.conda
